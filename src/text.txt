@@ -1,0 +1,7 @@
+Implementation comments are mean for commenting out code or for comments about the particular implementation.
+Doc Implementation comments are meant s to describe the specification of the code, from an implementation-free perspective.
+To be read by developers who might not necessarilyhave the source code at hand! Comments should be used
+to give overviews of code and provide additional information that isnot readily available in the code
+itself. Comments should contain only information that isrelevant to reading and understanding the program?
+For example, s information about how corresponding package is built or in what directory it resides
+should not be included as acomment mean.
